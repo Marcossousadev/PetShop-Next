@@ -1,11 +1,11 @@
 "use client"
-
 import useEmblaCarousel from "embla-carousel-react";
 import { ChevronLeft, ChevronRight, Scissors, Syringe, CarTaxiFront, Hotel, Clock } 
 from "lucide-react";
 import {WhatsappLogoIcon} from "@phosphor-icons/react/dist/ssr";
 import tutor1 from "../../public/tutor1.png";
-import tutor2 from "../../public/tutor1.png";
+import tutor2 from "../../public/ana.jpg";
+import tutor3 from "../../public/mariana.jpg";
 import Image from "next/image";
 
 
@@ -15,7 +15,7 @@ const testimonials = [
       "Desde que comecei a levar a Luna para banho e tosa aqui, ela nunca esteve tão feliz! O atendimento é impecável, os profissionais são super cuidadosos e sempre deixam minha peluda linda e cheirosa. Recomendo de olhos fechados!",
     author: "Mariana Souza",
     role: "Tutora da Luna (Golden Retriever)",
-    image: tutor2,
+    image: tutor3,
   },
   {
     content:
